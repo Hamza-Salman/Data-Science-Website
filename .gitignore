@@ -1,0 +1,5 @@
+python-venvs/my_env/__pycache__/
+python-venvs/my_env/bin/
+python-venvs/my_env/include/
+python-venvs/my_env/lib/
+pyvenv.cfg
